@@ -1,3 +1,7 @@
+# User files
+input_URLs/*
+output_files/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
